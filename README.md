@@ -31,10 +31,8 @@ The Ethernet library lets you connect to the Internet or a local network.
 
 	* Using the WIZ Ethernet library and evaluate existing Ethernet example.
 
-All other steps are the same as the steps from the Arduino Ethernet Shield. You can use examples in ./Ethernet/examples folder for the Arduino IDE 1.6.4, go to Files->Examples->Ethernet, open any example, then copy it to your sketch file and change configuration values properly.
-After that, you can check if it is work well. For example, if you choose 'WebServer', you should change IP Address first and compile and download it. Then you can access web server page through your web browser of your PC or something.
-Revision History
-
+	All other steps are the same as the steps from the Arduino Ethernet Shield. You can use examples in 	./Ethernet/examples folder for the Arduino IDE 1.6.4, go to Files->Examples->Ethernet, open any example, then copy it to your sketch file and change configuration values properly.
+	After that, you can check if it is work well. For example, if you choose 'WebServer', you should change IP Address first and compile and download it. Then you can access web server page through your web browser of your PC or something.
 
 * What is new ?
 	* Added new functions
@@ -73,5 +71,6 @@ To solve conflicts that sometimes occur between multiple SPI devices when using 
 	* Removed Twitter.cpp / Twitter.h
 
 
+* Revision History  
 Initial Release : 21 May. 2015
 
