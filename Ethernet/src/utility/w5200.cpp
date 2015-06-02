@@ -26,7 +26,7 @@ W5200Class W5100;
 
 void W5200Class::init(void)
 {
-  delay(300);
+  delay(3000);
 
 #if defined(ARDUINO_ARCH_AVR)
   SPI.begin();
